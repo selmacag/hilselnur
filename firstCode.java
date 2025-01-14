@@ -6,6 +6,12 @@ public class firstCode {
         oddEven(7);
 
 
+        for (int i=0; i<= 10 ; i++) {
+            System.out.print(i);
+        }
+
+
+
     }
 
     public static void oddEven(int number) {
@@ -15,4 +21,6 @@ public class firstCode {
             System.out.println(number + " is odd");
         }
     }
+
+
 }
